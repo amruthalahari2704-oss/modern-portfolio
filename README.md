@@ -16,4 +16,4 @@ HTML,CSS,JavaScript,Bootstrap
 ## Contact
 LinkedIn:https://www.linkedin.com/in/amrutha-lahari-puthi
 
-GitHub:amruthalahari2704-oss
+GitHub:https://github.com/amruthalahari2704-oss
