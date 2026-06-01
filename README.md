@@ -3,10 +3,10 @@
 ## Live Website
 https://amruthalahari2704-oss.github.io/modern-portfolio/
 
-##GitHub Repository
+## GitHub Repository
 https://github.com/amruthalahari2704-oss/modern-portfolio
 
-##Skill
+## Skill
 HTML,CSS,JavaScript,Bootstrap
 
 ## Contact
