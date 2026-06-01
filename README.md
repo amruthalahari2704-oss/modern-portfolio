@@ -1,4 +1,8 @@
 # Amrutha Lahari Portfolio
+Welcome to my Personal Portfolio website Using HTML,CSS and JavaScript
+
+## About Me
+B.Tech 3rd Year Computer Science Engineering Student at Lakireddy Bali Reddy College of Engineering.
 
 ## Live Website
 https://amruthalahari2704-oss.github.io/modern-portfolio/
@@ -12,4 +16,4 @@ HTML,CSS,JavaScript,Bootstrap
 ## Contact
 LinkedIn:https://www.linkedin.com/in/amrutha-lahari-puthi
 
-Email:lahariputhi27@gmail.com
+GitHub:amruthalahari2704-oss
